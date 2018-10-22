@@ -1,0 +1,5 @@
+json_data = {
+	"bg": "img/female.gif",
+	"icon": "img/icon.png",
+	"clickthrough":"https://youtu.be/yT6R7MgdQH0"
+}
